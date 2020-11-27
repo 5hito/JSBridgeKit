@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name             = "JSBridgeKit"
-  s.version          = "1.0.0"
+  s.version          = "1.0.3"
   s.summary          = 'A short description of JSBridgeKit.'
 
   s.description      = <<-DESC
